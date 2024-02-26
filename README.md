@@ -20,7 +20,7 @@ o, and also feal free to copy, modify, and distribute this addon to your hards c
 
 * pressing eather shortcuts twice will copy the result to the clipboard.
 
-* all the shortcuts can be customized from the "input gestures" menu."""
+* all the shortcuts can be customized from the "input gestures" menu.
 
 ## Source code
 
