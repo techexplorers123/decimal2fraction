@@ -25,7 +25,7 @@ keyboard shortcuts:
 * alt+NVDA+s: converts the selected number in to fraction.
 * alt+NVDA+a: converts the number on the clipboard to fraction.
 * pressing eather shortcuts twice will copy the result to the clipboard.
-* all the shortcuts can be customized from the "input gestures" menu.""""""),
+* all the shortcuts can be customized from the "input gestures" menu."""),
 	# version
 	"addon_version" : "1.0",
 	# Author(s)
