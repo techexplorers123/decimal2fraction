@@ -27,7 +27,7 @@ keyboard shortcuts:
 * pressing eather shortcuts twice will copy the result to the clipboard.
 * all the shortcuts can be customized from the "input gestures" menu."""),
 	# version
-	"addon_version" : "1.0",
+	"addon_version" : "1.1",
 	# Author(s)
 	"addon_author" : u"tech <admin@techclub.site>",
 	# URL for the add-on documentation support
