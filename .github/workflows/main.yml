@@ -23,7 +23,7 @@ jobs:
         run: scons
       - name: Create and Upload Release
         if: contains(github.ref, '/tags/')
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v3
         with:
           prerelease: ${{ endsWith(github.ref, '-dev') }}
           files: '*.nvda-addon'
